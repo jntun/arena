@@ -1,6 +1,3 @@
-#include <stdlib.h>
-#include <stdio.h>
-
 const static int MEMINCR = 10;
 
 struct arena
